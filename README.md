@@ -1,5 +1,4 @@
 ### Hi there 👋, Piyush Prashant
-#### Design and Development
 ![Design and Development](https://media.licdn.com/dms/image/D4D16AQFcJZRW4pGHGQ/profile-displaybackgroundimage-shrink_350_1400/0/1675138296485?e=1719446400&v=beta&t=uJ8b9IIQtv7SjBIhZYQERu6pL5xg-9WOrEyhCcR0kj4)
 
 Passionate about the art of web and mobile development, I thrive on mastering languages and frameworks like React, Vue, Nest, Next, and React Native. With each line of code, I craft digital experiences that resonate with users worldwide.
@@ -8,7 +7,13 @@ Passionate about the art of web and mobile development, I thrive on mastering la
 
 Join me as I blend the precision of code with the creativity of design, shaping the digital landscape one project at a time. Together, let's build tomorrow's innovations today! 💻✨
 
-Skills: VUE JS / REACT / NEST JS/ NEXT /JS  / HTML / CSS
+## Skills:
+  - VUE JS 
+  - REACT 
+  - NEST JS 
+  - NEXT JS 
+  - HTML 
+  - CSS
 
 - 🔭 I’m currently working on this page. 
 
