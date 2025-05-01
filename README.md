@@ -10,6 +10,7 @@ Join me as I blend the precision of code with the creativity of design, shaping 
  - https://medium.com/@piyushprashant93/creating-custom-react-hooks-d453a0d73e2b
  - https://medium.com/@piyushprashant93/jsx-ed0694b40268
  - https://medium.com/@piyushprashant93/react-from-the-beginning-create-your-first-react-app-aa227d0a446
+ - https://medium.com/@piyushprashant93/from-zero-to-server-ready-a-story-of-laravel-docker-kubernetes-and-ssl-907280502bd2
 ## Skills:
   - VUE JS 
   - REACT 
